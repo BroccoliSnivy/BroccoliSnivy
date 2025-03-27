@@ -52,7 +52,7 @@
 
 ---  
 
-<img src="https://raw.githubusercontent.com/BroccoliSnivy/BroccoliSnivy/output/pacman.svg" alt="Pac-man animation" />
+<img src="https://raw.githubusercontent.com/BroccoliSnivy/BroccoliSnivy/output/snake.svg" alt="Snake animation" />
 
 ---
 
