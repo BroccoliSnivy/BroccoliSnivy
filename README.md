@@ -43,11 +43,18 @@
 - [**Shatter Lock**](https://github.com/BroccoliSnivy/ShatterLock) - A secure, open-source password manager 🛡️   
 
 ---  
-
 ## 📈 GitHub Stats  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BroccoliSnivy&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BroccoliSnivy&layout=compact&theme=radical&langs_count=1)  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=BroccoliSnivy&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BroccoliSnivy&layout=compact&theme=radical&langs_count=1" />
+    </td>
+  </tr>
+</table>
 
 ---  
 
