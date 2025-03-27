@@ -37,7 +37,7 @@
 
 ---  
 
-##🚀 Projects  
+## 🚀 Projects  
 
 - Some Linux terminal ricing projects 🍚🌾🍙
 - [**Shatter Lock**](https://github.com/BroccoliSnivy/ShatterLock) - A secure, open-source password manager 🛡️   
