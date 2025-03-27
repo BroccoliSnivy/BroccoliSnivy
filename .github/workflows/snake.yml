@@ -1,8 +1,9 @@
-name: Generate Pac-Man Animation
+name: Generate Snake Animation
 
 on:
   schedule:
     - cron: "0 */12 * * *" # Runs every 12 hours
+
   workflow_dispatch: # Allows manual execution
 
 jobs:
@@ -12,13 +13,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Pac-Man animation
-        uses: Platane/platane-pacman@v1
+      - name: Generate the Snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/pacman.svg
+          outputs: dist/snake.svg
 
-      - name: Push the animation to the output branch
+      - name: Push the Snake animation to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
