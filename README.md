@@ -46,6 +46,7 @@
 
 ## 📈 GitHub Stats  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyz&show_icons=true&title_color=ff0000&text_color=ffffff&bg_color=000000&icon_color=ffcc00)  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=synthwave)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xyz&layout=compact&theme=synthwave&langs_count=1)  
 
