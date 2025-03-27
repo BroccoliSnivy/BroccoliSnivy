@@ -7,7 +7,7 @@
 ---  
 
 ## 🔥 About Me  
-- 🛡️ Passionate about cybersecurity (Currently exploring Palo Alto & Web Exploitation 🔓)  
+- 🛡️ Passionate about cybersecurity (Currently exploring Web Exploitation 🔓)  
 - 🏗️ Building **Shatter Lock** – A secure password manager with AES encryption 🔐  
 - 🖥️ Linux enthusiast, customizing Arch for peak performance 🏴‍☠️  
 - 🎮 Pokémon gamer turned open-source content creator  
