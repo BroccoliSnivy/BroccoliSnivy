@@ -9,9 +9,9 @@
     🚴 Cycling gives me that adrenaline rush to keep pushing forward  
   </p>
 
-  <img src="https://raw.githubusercontent.com/BroccoliSnivy/BroccoliSnivy/main/assets/matrix.gif" width="300px" height="200px">
+  <img src="https://raw.githubusercontent.com/BroccoliSnivy/BroccoliSnivy/main/assets/matrix.gif" height="200px">
   <img src="https://raw.githubusercontent.com/BroccoliSnivy/BroccoliSnivy/main/assets/tux.gif" height="169px">
-  <img src="https://raw.githubusercontent.com/BroccoliSnivy/BroccoliSnivy/main/assets/drift.gif" width="300px" height="200px">
+  <img src="https://raw.githubusercontent.com/BroccoliSnivy/BroccoliSnivy/main/assets/drift.gif" height="200px">
 
 </div>
 
