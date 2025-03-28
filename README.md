@@ -71,6 +71,6 @@
 
 ## 🌍 Connect with Me  
 💬 Let's talk about open-source, cybersecurity, and Linux!  
-📺 [YouTube Channel](https://www.youtube.com/@TheLegionaryMind) (Exploring open-source content)
+📺 [YouTube Channel](https://www.youtube.com/@TheLegionaryMind) (Exploring open-source content and gaming)
 
 <!-- 🔥 End of Profile Box -->
