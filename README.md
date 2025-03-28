@@ -1,7 +1,7 @@
 <!-- 🔥 Start of Profile Box -->
 <div align="center">
   
-  <img src="https://img.shields.io/badge/🚀%20THE%20MODERN%20DAY%20MAGICIAN-282A36?style=for-the-badge&logo=github&logoColor=white" alt="Profile Banner">
+  <h1 align="center">THE MODERN DAY MAGICIAN</h1>
 
   <p>
     🚀 Open-Source Enthusiast | Cybersecurity Learner | Linux Tweaker <br>
